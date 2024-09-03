@@ -1,5 +1,5 @@
 # portfolio
-Simple portfolio site by mahkrish -> https://mkrsh.github.io/portfolio/
+Simple portfolio site by mahkrish -> https://mkrsh.github.io/expert-waffle/
 
 ## Purpose
 A simple site to show my projects and achievements over the years.
